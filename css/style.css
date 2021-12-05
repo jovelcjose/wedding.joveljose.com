@@ -32,7 +32,10 @@ height: auto;
 padding-top: 25px;
 
 }
-
+.contentbackground
+{
+  background-color:rgba(247,247,247,255);
+}
 
 .countdown span{
   font-family: "Clicker Script", cursive;
@@ -709,12 +712,12 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   right: 0;
   z-index: -1;
-  background: #FFF;
+  background:#f7f7f7;
 }
 #qbootstrap-countdown .countdown {
   margin-bottom: 0;
   font-size: 45px;
-  color: #fff;
+  color:#f7f7f7;
 }
 #qbootstrap-countdown .countdown span {
   margin: 0 10px;
